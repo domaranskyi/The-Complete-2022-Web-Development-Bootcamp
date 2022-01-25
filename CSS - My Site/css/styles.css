@@ -1,3 +1,24 @@
+
+
 body {
-    background-color: blue;
+    margin: 0;
+    text-align: center;
+}
+h1 {
+    width:20%;
+    margin: 0 auto 0 auto;
+}
+.top-container {
+    background-color: #A3E4DB;
+}
+
+.middle-container {
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+}
+.bottom-container {
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
 }
